@@ -1,0 +1,13 @@
+{
+  "name": "Balanced Bracket Checkinator",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "testWatch": "jest --watchAll"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
